@@ -1,5 +1,14 @@
 # SIGEH
 
+[Emisión de Gases](http://sigeh.hidalgo.gob.mx/pags/semarnath/)
+Mapa interactivo que muestra la emisión de metano por la crianza de bovinos ó porcinos, las emisiones en SDF y las acciones de mitigación.
+
+[Trata Infantil](http://sigeh.hidalgo.gob.mx/pags/Tablero_Turismo/)
+Mapa interactivo que muestra tipos de delitos, sitios turísticos y empresas del sector. Incluye gráficos sobre la población de 5 a 17 años en ocupaciones no permitidas según distintas condiciones y datos de diversos incidentes.
+
+[Movilidad](http://sigeh.hidalgo.gob.mx/pags/movilidad/)
+Mapa interactivo que muestra las rutas para la implementacion de transporte publica que conecta a la estacion final del Tren AIFA-Pachuca con Pachuca de Soto y Mineral de la Reforma.
+
 [Consulta BUIEG](http://sigeh.hidalgo.gob.mx/pags/consulta_mun.php)
 Tablero interactivo para consultar datos del Banco Único de Información Estadística y Geográfica sobre temas como comercio, comunicaciones y transporte, cultura y deporte, población, entre otros.
 
@@ -40,10 +49,3 @@ Sitio web interactivo donde puedes ver diferentes indicadores sobre temas como m
 
 [CityFlow](http://sigeh.hidalgo.gob.mx/pags/consulta_mun.php#cityflow)
 [CityParks](http://sigeh.hidalgo.gob.mx/pags/consulta_mun.php#citypark)
-
-[Gasoducto](http://sigeh.hidalgo.gob.mx/pags/gasoducto/)  
-
-[Atlas Interactivo](http://sigeh.hidalgo.gob.mx/maps/atlas.html)  
-
-[Tablero de Indicadores Nacional e Histórico](http://sigeh.hidalgo.gob.mx/pags/tablero_indicadores/)  
-

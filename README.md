@@ -19,5 +19,5 @@
 | **[Gasoducto](http://sigeh.hidalgo.gob.mx/pags/gasoducto/)** | Mapa del proyecto Tuxpan-Tula TransCanada. | [🔗 Ver más](http://sigeh.hidalgo.gob.mx/pags/gasoducto/) |
 | **[Atlas Interactivo](http://sigeh.hidalgo.gob.mx/maps/atlas.html)** | Mapa con capas de información sobre vialidad, medio ambiente, población, vivienda, industria, educación y salud. | [🔗 Ver más](http://sigeh.hidalgo.gob.mx/maps/atlas.html) |
 | **[Tablero de Indicadores Nacional e Histórico](http://sigeh.hidalgo.gob.mx/pags/tablero_indicadores/)** | Sitio interactivo con indicadores sobre medio ambiente, economía, gobierno y sociedad. | [🔗 Ver más](http://sigeh.hidalgo.gob.mx/pags/tablero_indicadores/) |
-| **[CityFlow](http://sigeh.hidalgo.gob.mx/pags/consulta_mun.php#cityflow)* | Sitio web interactivo. | [🔗 Ver más](http://sigeh.hidalgo.gob.mx/pags/consulta_mun.php#cityflow) |
+| **[CityFlow](http://sigeh.hidalgo.gob.mx/pags/consulta_mun.php#cityflow)** | Sitio web interactivo. | [🔗 Ver más](http://sigeh.hidalgo.gob.mx/pags/consulta_mun.php#cityflow) |
 | **[CityParks](http://sigeh.hidalgo.gob.mx/pags/consulta_mun.php#citypark)** | Sitio web interactivo. | [🔗 Ver más](http://sigeh.hidalgo.gob.mx/pags/consulta_mun.php#citypark) |

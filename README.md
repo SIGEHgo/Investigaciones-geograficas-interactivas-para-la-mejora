@@ -4,7 +4,7 @@
 
 | Proyecto | Descripción | Enlace |
 |----------|------------|--------|
-| **Emisión de Gases** | Mapa interactivo que muestra la emisión de metano por la crianza de bovinos o porcinos, las emisiones en SDF y las acciones de mitigación. | [🔗 Ver más](http://sigeh.hidalgo.gob.mx/pags/semarnath/) |
+| **[Emisión de Gases](http://sigeh.hidalgo.gob.mx/pags/semarnath/)** | Mapa interactivo que muestra la emisión de metano por la crianza de bovinos o porcinos, las emisiones en SDF y las acciones de mitigación. | [🔗 Ver más](http://sigeh.hidalgo.gob.mx/pags/semarnath/) |
 | **Trata Infantil** | Mapa interactivo que muestra tipos de delitos, sitios turísticos y empresas del sector. Incluye gráficos sobre la población de 5 a 17 años en ocupaciones no permitidas. | [🔗 Ver más](http://sigeh.hidalgo.gob.mx/pags/Tablero_Turismo/) |
 | **Movilidad** | Mapa interactivo sobre las rutas de transporte público conectando la estación final del Tren AIFA-Pachuca con Pachuca de Soto y Mineral de la Reforma. | [🔗 Ver más](http://sigeh.hidalgo.gob.mx/pags/movilidad/) |
 | **Consulta BUIEG** | Tablero interactivo con datos sobre comercio, transporte, cultura, deporte, población y más. | [🔗 Ver más](http://sigeh.hidalgo.gob.mx/pags/consulta_mun.php) |
